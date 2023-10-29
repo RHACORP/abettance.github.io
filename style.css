@@ -244,6 +244,7 @@ a{
         margin: 0;
     }
     .header-btns .btn{
+        color: #000;
         display: block;
         text-align: center;
         width: 260px;
