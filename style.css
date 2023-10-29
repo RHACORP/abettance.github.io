@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
 
 :root{
-    --primary-color: #0000;
+    --primary-color: #fff;
     --primary-light-color: #0000;
-    --secondary-color: #fff;
+    --secondary-color: #0000;
     --alice-blue:#0000 ;
 } 
 *{
