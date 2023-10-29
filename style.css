@@ -215,7 +215,7 @@ a{
         margin-top: 80px;
     }
     .nav-link{
-        color: #fff;
+        color: #000;
         transition: all 0.3s ease-in-out;
     }
     .nav-link:hover{
@@ -237,7 +237,7 @@ a{
     }
     .navbar-toggler:hover{
         background-color: var(--secondary-color);
-        color: #fff;
+        color: #000;
     }
 
     .header-btns{
@@ -250,10 +250,10 @@ a{
     }
     .btn.btn-login{
         margin-bottom: 12px;
-        background-color: #fff;
+        background-color: #000;
     }
     .btn.btn-login:hover{
-        border-color: #fff!important;
+        border-color: #000!important;
         transform: translateY(-2px);
     }
     .btn.btn-start:hover{
@@ -286,7 +286,7 @@ a{
 }
 .showNavbar-toggler{
     z-index: 1000;
-    color: #fff;
+    color: #0000;
 }
 
 .resize-animation-stopper *{
