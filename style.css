@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
 
 :root{
-    --primary-color: #0000;
-    --primary-light-color: #0000;
-    --secondary-color: #000;
-    --alice-blue:#0000 ;
+    --primary-color: #fff;
+    --primary-light-color: #dc2e45;
+    --secondary-color: #fff;
+    --alice-blue:#251571 ;
 } 
 *{
     padding: 0;
@@ -64,7 +64,7 @@ a{
 }
 .header-btns .btn{
     background-color: transparent;
-    color: #000;
+    color: #fff;
     padding: 12px 20px;
     border-radius: 4px;
     border: 1px solid transparent;
@@ -124,7 +124,7 @@ a{
     height: 50px;
     width: 100%;
     border: none;
-    background-color: #000;
+    background-color: #fff;
     font-family: inherit;
     padding: 0 16px;
     font-size: 15px;
@@ -138,7 +138,7 @@ a{
     border: none;
     font-family: inherit;
     background-color: var(--primary-light-color);
-    color: #000;
+    color: #fff;
     font-size: 15px;
     cursor: pointer;
     border-top-right-radius: 4px;
@@ -215,7 +215,7 @@ a{
         margin-top: 80px;
     }
     .nav-link{
-        color: #000;
+        color: #fff;
         transition: all 0.3s ease-in-out;
     }
     .nav-link:hover{
@@ -237,7 +237,7 @@ a{
     }
     .navbar-toggler:hover{
         background-color: var(--secondary-color);
-        color: #000;
+        color: #fff;
     }
 
     .header-btns{
@@ -250,10 +250,10 @@ a{
     }
     .btn.btn-login{
         margin-bottom: 12px;
-        background-color: #000;
+        background-color: #fff;
     }
     .btn.btn-login:hover{
-        border-color: #000!important;
+        border-color: #fff!important;
         transform: translateY(-2px);
     }
     .btn.btn-start:hover{
@@ -286,7 +286,7 @@ a{
 }
 .showNavbar-toggler{
     z-index: 1000;
-    color: #0000;
+    color: #fff;
 }
 
 .resize-animation-stopper *{
