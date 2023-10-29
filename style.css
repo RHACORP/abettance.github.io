@@ -3,9 +3,9 @@
 
 :root{
     --primary-color: #000;
-    --primary-light-color: #f1566b;
+    --primary-light-color: #fff;
     --secondary-color: #000;
-    --alice-blue:#241570 ;
+    --alice-blue:#fff ;
 } 
 *{
     padding: 0;
