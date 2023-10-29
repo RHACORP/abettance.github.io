@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
 
 :root{
-    --primary-color: #0000;
+    --primary-color: #fff;
     --primary-light-color: #0000;
-    --secondary-color: #0000;
+    --secondary-color: #fff;
     --alice-blue:#0000 ;
 } 
 *{
@@ -64,7 +64,7 @@ a{
 }
 .header-btns .btn{
     background-color: transparent;
-    color: #fff;
+    color: #000;
     padding: 12px 20px;
     border-radius: 4px;
     border: 1px solid transparent;
@@ -124,7 +124,7 @@ a{
     height: 50px;
     width: 100%;
     border: none;
-    background-color: #fff;
+    background-color: #000;
     font-family: inherit;
     padding: 0 16px;
     font-size: 15px;
@@ -138,7 +138,7 @@ a{
     border: none;
     font-family: inherit;
     background-color: var(--primary-light-color);
-    color: #fff;
+    color: #000;
     font-size: 15px;
     cursor: pointer;
     border-top-right-radius: 4px;
