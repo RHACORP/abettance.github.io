@@ -156,7 +156,7 @@ a{
 }
 .social-links li a{
     background-color: var(--secondary-color);
-    color: #000;
+    color: #fff;
     width: 30px;
     height: 30px;
     display: flex;
