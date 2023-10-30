@@ -74,7 +74,7 @@ a{
     background-color: var(--primary-light-color);
 }
 .btn.btn-start:hover{
-    background-color: var(--secondary-color);
+    background-color: var(--alice-blue);
 }
 
 /* banner */
